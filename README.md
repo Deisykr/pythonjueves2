@@ -1,7 +1,7 @@
 # Condiciones y Ciclos con Python
 
-<p align ="center">
-<img whidth="200" heigth:"200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu3BGT57Y_Ct-X0mQ3faKvD-11HQX2tzYW2A&usqp=CAU"
+<p align="center">
+<img whidth="200" heigth="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu3BGT57Y_Ct-X0mQ3faKvD-11HQX2tzYW2A&usqp=CAU"
 </p>
 
 **Desarrollo de Software Cesde**  
